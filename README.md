@@ -1,4 +1,4 @@
-### Detail
+**Details**
 
 
 You should be looking at github.com/tlhunter/vimrc.git.. not here
